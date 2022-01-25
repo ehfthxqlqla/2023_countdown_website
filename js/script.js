@@ -77,7 +77,7 @@ function confirms()
         location.reload()
     }
 
-    else
+    if (conf == false)
     {
         dummy = 0
     }
